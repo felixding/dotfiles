@@ -1,0 +1,10 @@
+[user]
+  email = felixding@gmail.com
+  name = Ding Yu
+[alias]
+  st = status
+  pl = pull
+  plr = pull --rebase
+  ci = commit
+  co = checkout
+  br = branch
